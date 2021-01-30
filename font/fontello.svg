@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2020 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="guide-symbol" unicode="&#xe801;" d="M235 577a37 37 0 0 0-27 11l-197 198a37 37 0 0 0 53 53l171-172 172 171a37 37 0 0 0 53-53l-199-197a37 37 0 0 0-26-11z m0-363a37 37 0 0 0-27 11l-197 198a37 37 0 0 0 53 53l171-172 172 171a37 37 0 0 0 53-53l-199-198a37 37 0 0 0-26-10z m0-364a37 37 0 0 0-27 11l-197 198a37 37 0 0 0 53 53l171-172 172 171a37 37 0 0 0 53-53l-199-197a37 37 0 0 0-26-11z" horiz-adv-x="470" />
+</font>
+</defs>
+</svg>
